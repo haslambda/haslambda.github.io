@@ -1,8 +1,11 @@
 # Site settings
 title: HAS LAMBDA
-description: A blog about coding club LAMBDA of Hana Academy Seoul
+description: 하나고등학교 코딩 동아리 LAMBDA
 baseurl: / # the subpath of your site, e.g. /blog
 url: "http://www.haslambda.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
 
 # User settings
 username: LAMBDA
